@@ -505,7 +505,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-  ![image](https://github.com/user-attachments/assets/0a477f1c-f31d-4d73-bcb2-36afe35d63f0)
+ ![image](https://github.com/user-attachments/assets/f5014722-edce-4a72-bf93-8c06322b195b)
+
  
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
